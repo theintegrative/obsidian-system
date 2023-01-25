@@ -1,3 +1,4 @@
+prefix: sn-
 ## Why, what is the purpose?
 Snippets are little parts of code, documentation or workflow elements that together can compound each other to increase your productivity.
 

@@ -1,2 +1,3 @@
-# Why, what is the purpose?
-Meta snippets are a collection of internal snippets that you can use to create automation. For example we have [[meta-moveit]], which is a snippet that you can use for documents that are included as an option to create in a link like this: `[[]]`, but their template will only be created from inside the folder to trigger it. Plugins like this one called [Templater](https://github.com/SilentVoid13/Templater) is one of those candidates to do something like that
+prefix: sn-meta-
+## Why, what is the purpose?
+Meta snippets are a collection of internal snippets that you can use to create automation. For example we have [[sn-meta-moveit]], which is a snippet that you can use for documents that are included as an option to create in a link like this: `[[]]`, but their template will only be created from inside the folder to trigger it. Plugins like this one called [Templater](https://github.com/SilentVoid13/Templater) is one of those candidates to do something like that

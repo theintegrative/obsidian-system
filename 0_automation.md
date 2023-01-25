@@ -10,6 +10,11 @@ Without any sort of best practices and guidelines, you would document your own v
 
 - Everything needs to be lowercase and seperation done by _ or -. This ensures that I can easily use a bash script or linux command for manipulating the files in anyway if I want
 
+- Names of the template need to be in this order:
+	- top -> down 
+	- broad -> narrow 
+	- vague -> concrete
+
 ## Content
 - [[0_collectors]]
 - [[0_templates]]
