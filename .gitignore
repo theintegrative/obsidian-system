@@ -1,1 +1,5 @@
 content/
+collectors/daily/*.md
+collectors/off-log/off*.md
+collectors/proj-log/proj*.md
+collectors/wm-log/wm*.md
