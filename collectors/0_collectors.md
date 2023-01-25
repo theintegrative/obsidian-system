@@ -1,0 +1,2 @@
+## Why, what is the purpose?
+Collectors are the folders with each their rules that will collect repeating notes like daily notes, yearly notes. These notes are usefull for creation of nice pieces of art but are way to systemised to be considered as end products. 

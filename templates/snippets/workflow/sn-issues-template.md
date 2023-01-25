@@ -1,0 +1,5 @@
+- Git repo: <% tp.system.prompt("Github repo url:") %>
+- issue: <% tp.system.prompt("Jira url:") %>
+- documentation:
+	- src:
+	- dest:
