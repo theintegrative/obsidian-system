@@ -11,8 +11,12 @@
             "id": "10af9a86d9327cef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -149,15 +157,15 @@
   },
   "active": "10af9a86d9327cef",
   "lastOpenFiles": [
-    "automation/collectors/daily/2023-01-25.md",
+    "automation/collectors/0_collectors.md",
     "README.md",
-    "automation/collectors/off-log/off-2023-01-25.md",
+    "automation/collectors/off-log/_offloading.md",
     "automation/collectors/wm-log/wm-2023-01-25.md",
-    "automation/collectors/proj-log/proj-2023-01-25.md",
-    "automation/templates/time/calendar/0000-00-00.md",
-    "automation/collectors/wm-log/wm-.md",
-    "content/Vim - Learning tab.md",
-    "content/Skill development.md",
-    "content/Notes on learning other languages.md"
+    "automation/collectors/off-log/off-2023-01-25.md",
+    "automation/collectors/proj-log/_project.md",
+    "automation/collectors/daily/2023-01-25.md",
+    "automation/collectors/daily/_daily.md",
+    "automation/collectors/wm-log/_working_memory.md",
+    "content/Future stuff.md"
   ]
 }
