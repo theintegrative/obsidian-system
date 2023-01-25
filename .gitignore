@@ -1,5 +1,5 @@
 content/
-collectors/daily/*.md
-collectors/off-log/off*.md
-collectors/proj-log/proj*.md
-collectors/wm-log/wm*.md
+automation/collectors/daily/*.md
+automation/collectors/off-log/off*.md
+automation/collectors/proj-log/proj*.md
+automation/collectors/wm-log/wm*.md
