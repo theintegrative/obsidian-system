@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91482d6439cdbf15",
+            "id": "9b4523384e08ffef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c6003f6604d8ba9c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "177bc13e9147978d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f46ff26a91c334b1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "76917281e519acc9",
@@ -106,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -172,8 +156,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f46ff26a91c334b1",
+  "active": "9b4523384e08ffef",
   "lastOpenFiles": [
+    "automation/collectors/daily/2023-01-25.md",
     "content/Vim - Learning tab.md",
     "content/Skill development.md",
     "content/Notes on learning other languages.md",
@@ -182,7 +167,6 @@
     "Temporary/Untitled.md",
     "Temporary/Things I want to Learn.md",
     "Temporary/Tasks today continued.md",
-    "Temporary/Supplements logs - notes.md",
-    "Temporary/Self hosted gitlab.md"
+    "Temporary/Supplements logs - notes.md"
   ]
 }
