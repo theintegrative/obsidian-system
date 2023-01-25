@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5562ad1c0d245b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e03063fe8526e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91482d6439cdbf15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6003f6604d8ba9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "177bc13e9147978d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f46ff26a91c334b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d10ade337bf3138b",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b6699d5f8540a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "394b80edb9abf660",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3100a40757791329",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be5553655f23385b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76917281e519acc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a098f1d5ed6672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafd9eae4f19b1b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03f7a6f19eb419dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dce5473c32c547ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d9e553d6f834393",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "32e165749d9c4a1b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f46ff26a91c334b1",
+  "lastOpenFiles": [
+    "content/Vim - Learning tab.md",
+    "content/Skill development.md",
+    "content/Notes on learning other languages.md",
+    "content/My skills.md",
+    "content/Future stuff.md",
+    "Temporary/Untitled.md",
+    "Temporary/Things I want to Learn.md",
+    "Temporary/Tasks today continued.md",
+    "Temporary/Supplements logs - notes.md",
+    "Temporary/Self hosted gitlab.md"
+  ]
+}

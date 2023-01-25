@@ -1,0 +1,5 @@
+{
+  "folder": "automation/collectors/daily",
+  "template": "automation/templates/time/calendar/0000-00-00",
+  "autorun": true
+}
