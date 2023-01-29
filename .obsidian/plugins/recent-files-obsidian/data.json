@@ -1,52 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "yp-2021 of realizing my potential",
-      "path": "automation/collectors/yp-log/yp-2021 of realizing my potential.md"
+      "basename": "ti-year-plan",
+      "path": "automation/templates/time/year_plan/ti-year-plan.md"
     },
     {
-      "basename": "yp-2022 of Big Moves review",
-      "path": "automation/collectors/yp-log/yp-2022 of Big Moves review.md"
+      "basename": "Vim - Learning tab",
+      "path": "content/Vim - Learning tab.md"
     },
     {
-      "basename": "yp-Network plan year 2022",
-      "path": "automation/collectors/yp-log/yp-Network plan year 2022.md"
+      "basename": "Supplement logs - app",
+      "path": "content/1_note/all/Supplement logs - app.md"
     },
     {
-      "basename": "yp-Spiritual plan year 2021",
-      "path": "automation/collectors/yp-log/yp-Spiritual plan year 2021.md"
+      "basename": "general - links",
+      "path": "content/0_map/links/general - links.md"
     },
     {
-      "basename": "yp-Health plan year 2021",
-      "path": "automation/collectors/yp-log/yp-Health plan year 2021.md"
-    },
-    {
-      "basename": "_year_plan",
-      "path": "automation/collectors/yp-log/_year_plan.md"
-    },
-    {
-      "basename": "sn-meta-obsidian-renaming",
-      "path": "automation/templates/snippets/meta/sn-meta-obsidian-renaming.md"
-    },
-    {
-      "basename": "sn-meta-move",
-      "path": "automation/templates/snippets/meta/sn-meta-move.md"
-    },
-    {
-      "basename": "0_meta",
-      "path": "automation/templates/snippets/meta/0_meta.md"
+      "basename": "proj-skill-building",
+      "path": "automation/collectors/proj-log/proj-skill-building.md"
     },
     {
       "basename": "Project - MOC",
       "path": "content/0_map/maps/Project - MOC.md"
     },
     {
-      "basename": "ou-new-content",
-      "path": "automation/templates/outlines/ou-new-content.md"
+      "basename": "proj-setup-streaming",
+      "path": "automation/collectors/proj-log/proj-setup-streaming.md"
     },
     {
-      "basename": "new",
-      "path": "content/new.md"
+      "basename": "proj-coding-projects",
+      "path": "automation/collectors/proj-log/proj-coding-projects.md"
+    },
+    {
+      "basename": "Year plan - MOC",
+      "path": "content/0_map/maps/Year plan - MOC.md"
+    },
+    {
+      "basename": "How to MOC",
+      "path": "content/0_map/maps/How to MOC.md"
+    },
+    {
+      "basename": "linkedin profile description",
+      "path": "content/1_note/all/linkedin profile description.md"
+    },
+    {
+      "basename": "Socials The integrative",
+      "path": "content/0_map/links/Socials The integrative.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "yp-2023 of creative awakeing",
+      "path": "automation/collectors/yp-log/yp-2023 of creative awakeing.md"
+    },
+    {
+      "basename": "yp-2021 of realizing my potential",
+      "path": "automation/collectors/yp-log/yp-2021 of realizing my potential.md"
+    },
+    {
+      "basename": "yp-biz-2022",
+      "path": "automation/collectors/yp-log/yp-biz-2022.md"
+    },
+    {
+      "basename": "yp-2022 of Big Moves review",
+      "path": "automation/collectors/yp-log/yp-2022 of Big Moves review.md"
+    },
+    {
+      "basename": "yp-2022 of Big Moves",
+      "path": "automation/collectors/yp-log/yp-2022 of Big Moves.md"
+    },
+    {
+      "basename": "2023-01-29",
+      "path": "automation/collectors/daily/2023-01-29.md"
+    },
+    {
+      "basename": "yp-spi-2022",
+      "path": "automation/collectors/yp-log/yp-spi-2022.md"
+    },
+    {
+      "basename": "yp-spi-2021",
+      "path": "automation/collectors/yp-log/yp-spi-2021.md"
+    },
+    {
+      "basename": "yp-dev-2022",
+      "path": "automation/collectors/yp-log/yp-dev-2022.md"
+    },
+    {
+      "basename": "yp-dev-2021",
+      "path": "automation/collectors/yp-log/yp-dev-2021.md"
+    },
+    {
+      "basename": "yp-net-2022",
+      "path": "automation/collectors/yp-log/yp-net-2022.md"
+    },
+    {
+      "basename": "yp-hea-2022",
+      "path": "automation/collectors/yp-log/yp-hea-2022.md"
+    },
+    {
+      "basename": "yp-hea-2021",
+      "path": "automation/collectors/yp-log/yp-hea-2021.md"
+    },
+    {
+      "basename": "yp-fin-2022",
+      "path": "automation/collectors/yp-log/yp-fin-2022.md"
+    },
+    {
+      "basename": "0_collectors",
+      "path": "automation/collectors/0_collectors.md"
+    },
+    {
+      "basename": "sn-wf-wm-template",
+      "path": "automation/templates/snippets/workflow/sn-wf-wm-template.md"
+    },
+    {
+      "basename": "sn-wf-projects",
+      "path": "automation/templates/snippets/workflow/sn-wf-projects.md"
+    },
+    {
+      "basename": "0_year_plan",
+      "path": "automation/templates/time/year_plan/0_year_plan.md"
+    },
+    {
+      "basename": "proj-obsid",
+      "path": "automation/collectors/proj-log/proj-obsid.md"
+    },
+    {
+      "basename": "_year_plan",
+      "path": "automation/collectors/yp-log/_year_plan.md"
+    },
+    {
+      "basename": "wm-2023-01-29",
+      "path": "automation/collectors/wm-log/wm-2023-01-29.md"
+    },
+    {
+      "basename": "sn-meta-move",
+      "path": "automation/templates/snippets/meta/sn-meta-move.md"
+    },
+    {
+      "basename": "sn-meta-obsidian-renaming",
+      "path": "automation/templates/snippets/meta/sn-meta-obsidian-renaming.md"
+    },
+    {
+      "basename": "0_meta",
+      "path": "automation/templates/snippets/meta/0_meta.md"
+    },
+    {
+      "basename": "ou-new-content",
+      "path": "automation/templates/outlines/ou-new-content.md"
     },
     {
       "basename": "ou-automation-note",
@@ -69,10 +173,6 @@
       "path": "content/1_note/all/Bookclub manager - app.md"
     },
     {
-      "basename": "Supplement logs - app",
-      "path": "content/Supplement logs - app.md"
-    },
-    {
       "basename": "0_outlines",
       "path": "automation/templates/outlines/0_outlines.md"
     },
@@ -87,118 +187,6 @@
     {
       "basename": "sn-doc-create-dotenv",
       "path": "automation/templates/snippets/docs/sn-doc-create-dotenv.md"
-    },
-    {
-      "basename": "proj-skill-building",
-      "path": "automation/collectors/proj-log/proj-skill-building.md"
-    },
-    {
-      "basename": "Skill development",
-      "path": "content/Skill development.md"
-    },
-    {
-      "basename": "Espanso - app",
-      "path": "content/1_note/all/Espanso - app.md"
-    },
-    {
-      "basename": "Budgetting - app",
-      "path": "content/1_note/all/Budgetting - app.md"
-    },
-    {
-      "basename": "proj-coding-projects",
-      "path": "automation/collectors/proj-log/proj-coding-projects.md"
-    },
-    {
-      "basename": "Osget - app",
-      "path": "content/1_note/all/Osget - app.md"
-    },
-    {
-      "basename": "2023-01-29",
-      "path": "automation/collectors/daily/2023-01-29.md"
-    },
-    {
-      "basename": "proj-setup-streaming",
-      "path": "automation/collectors/proj-log/proj-setup-streaming.md"
-    },
-    {
-      "basename": "How to MOC",
-      "path": "content/0_map/maps/How to MOC.md"
-    },
-    {
-      "basename": "How to recycle your own projects",
-      "path": "content/1_note/all/How to recycle your own projects.md"
-    },
-    {
-      "basename": "wm-2023-01-29",
-      "path": "automation/collectors/wm-log/wm-2023-01-29.md"
-    },
-    {
-      "basename": "sn-wf-projects",
-      "path": "automation/templates/snippets/workflow/sn-wf-projects.md"
-    },
-    {
-      "basename": "sn-wf-new-project",
-      "path": "automation/templates/snippets/workflow/sn-wf-new-project.md"
-    },
-    {
-      "basename": "sn-wf-wm-template",
-      "path": "automation/templates/snippets/workflow/sn-wf-wm-template.md"
-    },
-    {
-      "basename": "0_templates",
-      "path": "automation/templates/0_templates.md"
-    },
-    {
-      "basename": "2023-01-28",
-      "path": "automation/collectors/daily/2023-01-28.md"
-    },
-    {
-      "basename": "wm-2023-01-28",
-      "path": "automation/collectors/wm-log/wm-2023-01-28.md"
-    },
-    {
-      "basename": "0_workflow",
-      "path": "automation/templates/snippets/workflow/0_workflow.md"
-    },
-    {
-      "basename": "0_automation",
-      "path": "automation/0_automation.md"
-    },
-    {
-      "basename": "0_snippets",
-      "path": "automation/templates/snippets/0_snippets.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Vim - Learning tab",
-      "path": "content/Vim - Learning tab.md"
-    },
-    {
-      "basename": "Vision for the future",
-      "path": "content/1_note/all/Vision for the future.md"
-    },
-    {
-      "basename": "Meta shopping cart",
-      "path": "content/1_note/business_ideas/Meta shopping cart.md"
-    },
-    {
-      "basename": "Summary Book social engineering",
-      "path": "content/2_source/book/Summary Book social engineering.md"
-    },
-    {
-      "basename": "Sell or be sold - book",
-      "path": "content/2_source/book/Sell or be sold - book.md"
-    },
-    {
-      "basename": "Socials The integrative",
-      "path": "content/3_space/the_integrative/0_map/links/Socials The integrative.md"
-    },
-    {
-      "basename": "Current skills",
-      "path": "content/3_space/the_integrative/1_area/profile/Current skills.md"
     }
   ],
   "omittedPaths": [],

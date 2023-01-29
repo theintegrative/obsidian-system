@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cbb1e63a18df9bf9",
+        "id": "1c163666970a1573",
         "type": "tabs",
         "children": [
           {
-            "id": "10af9a86d9327cef",
+            "id": "eb52fc8ebb3d1879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "automation/templates/time/year_plan/ti-year-plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,9 +49,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "355ea3a582689765",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "automation/templates/time/year_plan/ti-year-plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "automation/templates/time/year_plan/ti-year-plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "automation/templates/time/year_plan/ti-year-plan.md"
               }
             }
           },
@@ -152,20 +160,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "10af9a86d9327cef",
+  "active": "eb52fc8ebb3d1879",
   "lastOpenFiles": [
-    "automation/collectors/0_collectors.md",
-    "README.md",
-    "automation/collectors/off-log/_offloading.md",
-    "automation/collectors/wm-log/wm-2023-01-25.md",
-    "automation/collectors/off-log/off-2023-01-25.md",
-    "automation/collectors/proj-log/_project.md",
-    "automation/collectors/daily/2023-01-25.md",
-    "automation/collectors/daily/_daily.md",
-    "automation/collectors/wm-log/_working_memory.md",
-    "content/Future stuff.md"
+    "content/Vim - Learning tab.md",
+    "content/1_note/all/Supplement logs - app.md",
+    "content/Skill development.md",
+    "content/0_map/links/general - links.md",
+    "content/new.md",
+    "Untitled.md",
+    "automation/collectors/proj-log/proj-skill-building.md",
+    "content/0_map/maps/Project - MOC.md",
+    "automation/collectors/proj-log/proj-setup-streaming.md",
+    "automation/collectors/proj-log/proj-coding-projects.md"
   ]
 }

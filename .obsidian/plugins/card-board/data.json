@@ -121,6 +121,34 @@
           "includeUntagged": false,
           "title": "Coding"
         }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "yearplan/new",
+              "displayTitle": "Yearplan new"
+            },
+            {
+              "tag": "yearplan/ready",
+              "displayTitle": "Yearplan ready"
+            },
+            {
+              "tag": "yearplan/progress",
+              "displayTitle": "Yearplan progress"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "YearPlan"
+        }
       }
     ],
     "globalSettings": {
