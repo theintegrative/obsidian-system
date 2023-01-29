@@ -1,0 +1,1 @@
+ - [[automation/collectors/proj-log/proj-<% tp.date.now("YYYY-MM-DD") %>]]

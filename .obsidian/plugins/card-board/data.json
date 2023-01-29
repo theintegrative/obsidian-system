@@ -1,0 +1,139 @@
+{
+  "version": "0.8.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "skill/0",
+              "displayTitle": "new"
+            },
+            {
+              "tag": "skill/1",
+              "displayTitle": "stage-1"
+            },
+            {
+              "tag": "skill/2",
+              "displayTitle": "stage-2"
+            },
+            {
+              "tag": "skill/3",
+              "displayTitle": "stage-3"
+            },
+            {
+              "tag": "skill/4",
+              "displayTitle": "stage-4"
+            },
+            {
+              "tag": "skill/5",
+              "displayTitle": "stage-5"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "IT skill"
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "content/new",
+              "displayTitle": "Content new"
+            },
+            {
+              "tag": "content/ready",
+              "displayTitle": "Content ready"
+            },
+            {
+              "tag": "content/development",
+              "displayTitle": "Content development"
+            },
+            {
+              "tag": "content/review",
+              "displayTitle": "Content review"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Content"
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "pipeline",
+              "displayTitle": "Pipeline"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Pipeline"
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "coding/new",
+              "displayTitle": "Coding new"
+            },
+            {
+              "tag": "coding/development",
+              "displayTitle": "Coding development"
+            },
+            {
+              "tag": "coding/review",
+              "displayTitle": "Coding review"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Coding"
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      }
+    }
+  }
+}
